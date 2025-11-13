@@ -1,0 +1,13 @@
+dotenv
+langchain
+langchain_core
+langgraph
+langchain_mistralai
+langchain_ollama
+psycopg2-binary
+langgraph
+flask
+flask_cors
+google-genai
+langchain_google_genai
+openai
