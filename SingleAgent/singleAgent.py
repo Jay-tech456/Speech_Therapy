@@ -49,6 +49,7 @@ class Agent:
                 "you must fall back to analyzing the raw text directly.\n"
                 "\n"
                 "MANUAL FALLBACK BEHAVIOR (if tool fails):\n"
+                "-The four primary parameters for evaluating TOEFL speaking responses are delivery, language use, topic development, and content/coherence. Delivery assesses clarity, pace, and fluency, while language use focuses on grammar and vocabulary. Topic development evaluates the organization and structure of your ideas, and content/coherence ensures your response is relevant, complete, and easy to understand."
                 "- Detect fluency based on sentence flow, pauses, rhythm, and cohesion.\n"
                 "- Detect pronunciation quality from phonetic patterns, clarity markers, "
                 "and overall ease of articulation.\n"
@@ -83,6 +84,8 @@ class Agent:
                 "}\n"
                 "\n"
                 "If any metric cannot be reliably computed, provide your best estimate.\n"
+
+                
             )
         )
 

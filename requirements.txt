@@ -11,3 +11,5 @@ flask_cors
 google-genai
 langchain_google_genai
 openai
+uvicorn
+fastapi
